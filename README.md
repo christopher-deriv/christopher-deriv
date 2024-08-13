@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_images/1329832297244323841/vfaOg8d7_400x400.jpg"/><a href="https://twitter.com/techyteachme">
+  <img src=""/><a href="">
   <br>
   </a>
   <a href="https://www.linkedin.com/in/christopher-hernandez-94196049/"><img src="https://img.shields.io/badge/Christopher%20Hernandez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
